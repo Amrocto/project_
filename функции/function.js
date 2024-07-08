@@ -12,7 +12,7 @@ function showFirstMessage2(text){
 
 showFirstMessage2("hi!");
 
-let a=50
+let a2=50;
 function rewriteValue(){
     a=20
 };
